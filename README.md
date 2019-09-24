@@ -7,6 +7,6 @@ Show you the basic but useful skills of Git.
 ## Vi
 
 
-*Everyone is wellcome!
+*Everyone is wellcome!*
 
-**Git is basic skills for programmers.
+**Git is basic skills for programmers.**
