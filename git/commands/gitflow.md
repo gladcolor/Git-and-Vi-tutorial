@@ -5,7 +5,7 @@
 GitFlow is a software developmental pattern to control versions of master, develop, release, feature branches, and so on. Based on Git and the idea of GitFLow, a software development team will have a clear workflow to control various versions in the life circle of software.
 
 Before digging into the details, the following chart is helpful to give you a big picture of GitFlow. GitFlow uses these braches:
-master:
+master: 
 hotfixes:
 release branches:
 develop:
