@@ -4,7 +4,7 @@ For the new comers of Git and Vi.
 ## Git
 Show you the basic but useful skills of Git.
 
-[GitFlow](commands/gitflow.md)
+[GitFlow](git/commands/gitflow.md)
 
 
 ## Vi
