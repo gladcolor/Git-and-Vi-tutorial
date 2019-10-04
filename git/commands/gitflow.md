@@ -16,10 +16,13 @@ Before digging into the details, the following chart is helpful to give you a bi
 
 **Hotfixes**: Used for emergecy bug fix.
  
-
 ![](https://nvie.com/img/git-model@2x.png)
 [Chart: Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## why GitFlow?
 
+Like other industrial fields, most software developments need a team work together to produce qualified commerial products. GitFlow is a pragmatic method to organize and trace the production activities. For new teams and novices in programming, GitFlow is a reliable branch model. 
+
+
 ## How to GitFlow?
+Basically, GitFlow is a method of version control, and it reflects the management on software development. Git serves as a basic tool here, but other similar version control tool can be also applied. GitFlow does require the fluency of Git, however, software engineering is a prerequisite. The careful arrangment of the develop, feature, and other branches is the key to setup a useful GitFlow.  
