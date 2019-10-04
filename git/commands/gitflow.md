@@ -11,12 +11,7 @@ Master: The main branch of the software. It is the achive of the development wor
 Hotfixes: Used for emergecy bug fix.
 Develop: Developing version will be branched off from develop branch.
 Release branches: When it is time to make a release, a release branch is created off of develop. The code in the release branch is deployed onto a suitable test environment, tested, and any problems are fixed directly in the release branch. 
-
-
-
-
-
-Feature branches(Major feature for next release): Feature branches are branched off of the develop branch, and finished features and fixes are merged back into the develop branch when they’re ready for release. New development (new features, non-emergency bug fixes) are built in feature branches:
+Feature branches: (Major feature for next release): Feature branches are branched off of the develop branch, and finished features and fixes are merged back into the develop branch when they’re ready for release. New development (new features, non-emergency bug fixes) are built in feature branches:
 
 Feature branches(Feature for furture release):
 
