@@ -4,6 +4,7 @@
 For the new comers of Git and Vi. Writthen by Huan Ning (Git) and Yunhao Zhang (Vi). Please note this is a mini project for the class of IS601.
 
 ![](https://hackernoon.com/hn-images/1*9qX9F9MGsWKfcmgTOR9BPw.png)
+[Figure comes from](https://hackernoon.com)
 
 
 
