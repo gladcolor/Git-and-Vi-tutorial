@@ -7,10 +7,12 @@ Normally, the remote repository is the product of many team members. Every team 
 
 # How to Push?
 
-The simplest usage:
+If you have cloned a repository from github.com, the simplest usage is like this:
 ```git
 git push
 ```
 
+
 Ther result is like:
+
 ![push](/git/img/push.jpg)
