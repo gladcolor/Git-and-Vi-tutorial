@@ -1,5 +1,5 @@
 # Introduction  
-cd is a command to do the changing directory in Linux command line interface. 
+`cd` is a command to do the changing directory in Linux command line interface. 
 Before we do `cd`, let's look few simple concepts related to `cd`.    
 For example, when we open the terminal or command line interface, we are on a default directory which is assained by system.  
 This default directory is usually represented by special character **~**. For example, you can the blue **~** followed with green characters indicate the current place you are:  
