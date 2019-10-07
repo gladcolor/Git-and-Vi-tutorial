@@ -17,7 +17,7 @@ Then merge the branch:
 git merge checkout_cmd
 ```
 
-
+This is an example to merge a branch name "checkout_cmd" to the master branch.
 ![merge](/git/img/merge.jpg)
 
 
