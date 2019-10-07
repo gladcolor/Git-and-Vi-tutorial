@@ -21,6 +21,8 @@ Show you the basic but useful skills of Git. You can check these commands to lea
 
 [Branch](git/commands/branch.md)
 
+[Master Branch](git/commands/master_branch.md)
+
 [Commit](git/commands/commit.md)
 
 [Merge](git/commands/merge.md)
@@ -35,7 +37,7 @@ Show you the basic but useful skills of Git. You can check these commands to lea
 
 [Status](git/commands/status.md)
 
-[Master Branch](git/commands/master_branch.md)
+
 
 ## Vi
 
