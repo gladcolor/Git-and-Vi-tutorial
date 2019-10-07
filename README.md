@@ -2,7 +2,7 @@
 For the new comers of Git and Vi.
 
 ## Git
-Show you the basic but useful skills of Git.
+Show you the basic but useful skills of Git. You can check these commands to learn how to use Git.
 
 [GitFlow](git/commands/gitflow.md)
 
