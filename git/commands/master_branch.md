@@ -7,7 +7,7 @@ For a version control software, a "offical", "final" version is needed. Develope
 # How to Master Branch?
 When you create a new repository, you will at the Master Branch, or you can checkout the Master Branch by "git checkout master" from any branch. Using "git branch" can see the current branch (with a *).
 
-![](/git/img/master.jpg)
+![master](/git/img/master.jpg)
 
 
 
