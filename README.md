@@ -1,5 +1,11 @@
+
+
 # Git-and-Vi-tutorial
-For the new comers of Git and Vi.
+For the new comers of Git and Vi. Writthen by Huan Ning (Git) and Yunhao Zhang (Vi). Please note this is a mini project for the class of IS601.
+
+![](https://hackernoon.com/hn-images/1*9qX9F9MGsWKfcmgTOR9BPw.png)
+
+
 
 ## Git
 Show you the basic but useful skills of Git. You can check these commands to learn how to use Git.
@@ -24,7 +30,7 @@ Show you the basic but useful skills of Git. You can check these commands to lea
 
 [Pull](git/commands/pull.md)
 
-[Remote Add / Remove / Show](git/commands/remote_add.md)
+[Remote](git/commands/remote_add.md)
 
 [Status](git/commands/status.md)
 
@@ -39,3 +45,4 @@ Show you the basic but useful skills of Git. You can check these commands to lea
 **Git is basic skills for programmers.**
 
 **Vi is very good!**
+
