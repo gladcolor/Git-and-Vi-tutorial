@@ -3,7 +3,7 @@
 Before we do `cd`, let's look few simple concepts related to `cd`.    
 For example, when we open the terminal or command line interface, we are on a default directory which is assained by system.  
 This default directory is usually represented by special character **~**. For example, you can the blue **~** followed with green characters indicate the current place you are:  
-![one](/image/vi/Screenshot%20from%202019-10-05%2022-52-02.png)  
+![](image/vi/Screenshot%20from%202019-10-05%2022-52-02.png)  
 So, it means you are currently on a place what system calls it as **~**.
 We start from the place shown on above picture and we first use command `pwd` to check the full directory path of where you current are:  
 []  
