@@ -15,7 +15,7 @@ Say we want to go to directory **web**. Now it is time to offically introduce `c
 In Windows, you can just click mouse over a folder on screen. The command `cd` performs the same function as this mouse click in Windows.  
 Type the `cd` at first and we follow with the directory we want to go. In this case, it is **web** directorty:  
 []  
-Press enter, now you can see the blue character which show the current your place append a **web** to the **~**. It means you successfully change the place to **web**.  
+Press enter, now you can see the blue character which shows the current your place append a **web** to the **~**. It means you successfully change the place to **web**.  
 # Extra  
 If you just type `cd` without anything, it directs you back to the default place **~**.  
 If you just type `cd` with **..**, it leads you back to directory beofre the current place.  
