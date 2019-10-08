@@ -1,1 +1,1 @@
--V1.0 released on Oct. 8, 2019. 
+- V1.0 released on Oct. 8, 2019. 
