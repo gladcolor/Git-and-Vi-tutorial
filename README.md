@@ -52,3 +52,5 @@ Show you the basic but useful skills of Git. You can check these commands to lea
 [history](vi-and-cmd/history.md)  
 [using up and down arrow for history](vi-and-cmd/using-up-and-down-arrow-for-history.md)  
 
+
+[Changelog](changelog.md)
