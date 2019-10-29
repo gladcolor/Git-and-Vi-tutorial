@@ -3,20 +3,35 @@ For mini-project2 in IS601001, mostly by Huan Ning.
 This part provides some tips to help you program profassoinaly.
 
 [1. How Python uses Indentation to control Flow](program/indent.md)
+
 [2. Don't Repeat Yourself](program/no_repeat.md)
+
 [3. Design Patterns from Gang of Four](program/patterns.md)
+
 [4. Class](program/class.md)
+
 [6. Object](program/object.md)
+
 [7. Static](program/static.md)
+
 [8. Property / Attribute](program/property_attr.md)
+
 [9. Method](program/method.md)
+
 [10. Exception](program/exception.md)
+
 [11. Unit Test](program/unit_test.md)
+
 [12. Constructor](program/constructor.md)
+
 [13. Factory](program/factory.md)
+
 [14. Decorator](program/decorator.md)
+
 [15. Extend Class](program/extend.md)
+
 [16. CSV Files](program/csvfile.md)
+
 [17. Reading Files](program/read_file.md)
 
 
