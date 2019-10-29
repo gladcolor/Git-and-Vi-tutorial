@@ -1,5 +1,7 @@
 # How to programm profassionally?
+
 For mini-project2 in IS601001, mostly by Huan Ning.
+
 This part provides some tips to help you program profassoinaly.
 
 [1. How Python uses Indentation to control Flow](program/indent.md)
