@@ -1,4 +1,4 @@
 - V1.0 released on Oct. 8, 2019. 
 - V0.3 merge Vi part on Oct. 7, 2019
 - V0.2 finished Git part on Oct. 4, 2019
-- V0.1 create repository on Oct. 1, 2019
+- V0.1 create the repository on Oct. 1, 2019
