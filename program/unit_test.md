@@ -10,8 +10,8 @@ Before the code is used or embedded into higher level program, it should be prov
 
 
 # How to use Unit Test?
-In Python, a built-in moudle is provided for developers to conduct Unit Test. The official documentation list a great
- exmaple below. Normally, the Unit Test code is written in a .py file, separating from the .py file of the code needs
+In Python, a built-in module is provided for developers to conduct Unit Test. The official documentation list a great
+ example below. Normally, the Unit Test code is written in a .py file, separating from the .py file of the code needs
   to be tested. 
 
 ```python
