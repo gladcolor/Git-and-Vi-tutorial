@@ -1,4 +1,4 @@
-# How to programm profassionally?
+# How to program professionally?
 
 For mini-project2 in IS601001, mostly by Huan Ning.
 
